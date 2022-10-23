@@ -4,6 +4,6 @@
 
 ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=NichoAdhyatma)
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,vue,laravel,tailwind)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,vue,php,laravel,java,bootstrap,tailwind)](https://skillicons.dev)
 
 
