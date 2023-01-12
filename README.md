@@ -1,4 +1,4 @@
-### Hi there 👋 I'm Nicho
+### Hi there 👋 I'm Nicho, I am from Indonesia 
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=NichoAdhyatma&theme=highcontrast&show_icons=true&count_private=true)
 
