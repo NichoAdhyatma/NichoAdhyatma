@@ -1,5 +1,7 @@
 ### Hi there 👋 I'm Nicho, I am from Indonesia 
 
+Visitor Count
+
 ![Visitor Count](https://profile-counter.glitch.me/NichoAdhyatma/count.svg)
 
 
