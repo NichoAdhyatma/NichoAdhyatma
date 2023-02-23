@@ -4,6 +4,8 @@
 
 ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=NichoAdhyatma)
 
+![](https://komarev.com/ghpvc/?username=your-NichoAdhyatam)
+
 
 
 
