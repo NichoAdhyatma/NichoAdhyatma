@@ -3,6 +3,7 @@
 Visitor Count
 
 ![Visitor Count](https://profile-counter.glitch.me/NichoAdhyatma/count.svg)
+<br/>
 ![](https://komarev.com/ghpvc/?username=NichoAdhyatma)
 
 
