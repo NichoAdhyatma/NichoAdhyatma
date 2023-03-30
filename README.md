@@ -3,6 +3,7 @@
 Visitor Count
 
 ![Visitor Count](https://profile-counter.glitch.me/NichoAdhyatma/count.svg)
+![](https://komarev.com/ghpvc/?username=NichoAdhyatma)
 
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=NichoAdhyatma&theme=highcontrast&show_icons=true&count_private=true)
