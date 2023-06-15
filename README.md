@@ -1,4 +1,4 @@
-### Hi there 👋 I'm Nicho, I am from Indonesia 
+### Hi there 👋 I'm Nicho, I am from Indonesia , have great interest in software mobile development
 
 Visitor Count
 
