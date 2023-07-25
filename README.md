@@ -104,9 +104,6 @@
      </samp>
   </div>    
 </details>
------
-Credits: [nichoadhyatma](https://github.com/nichoadhyatma)
-Last Edited on: 23/09/2022
 
 
 
