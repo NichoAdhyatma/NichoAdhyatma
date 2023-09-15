@@ -36,6 +36,8 @@
   </samp>
 </div>
 </details>
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=NichoAdhyatma)](https://github.com/ryo-ma/github-profile-trophy)
   
 <details open> 
   <summary>💻 GitHub Profile Stats</summary>
